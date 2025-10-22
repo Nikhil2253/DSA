@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* invert(TreeNode* head) {
-        if (!head) return nullptr; 
+        if (!head) return NULL; 
         
         TreeNode* temp = head->left;
         head->left = invert(head->right);
