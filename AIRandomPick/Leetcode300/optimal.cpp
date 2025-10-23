@@ -12,3 +12,6 @@ public:
         return (int)tails.size();
     }
 };
+
+// optimal
+
