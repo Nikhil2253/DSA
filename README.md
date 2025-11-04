@@ -1,6 +1,6 @@
 # DSA: Data Structures and Algorithms
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository.  
+Welcome to my Personal **Data Structures and Algorithms (DSA)** repository.  
 
 This repo contains **clean, well-structured solutions** to a wide range of DSA problems, primarily implemented in **C++**, with plans to expand into **JavaScript** later.  
 
@@ -15,4 +15,4 @@ It is **not meant as a teaching resource** or reference guide for others.
 
 ---
 
-🚀 *Just a learner documenting the journey through DSA.*
+*Just a learner documenting the journey through DSA.*
