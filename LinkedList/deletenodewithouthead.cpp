@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Intuition is Best Approach Here
 struct ListNode {
     int val;
     ListNode* next;
