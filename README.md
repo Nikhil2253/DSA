@@ -11,7 +11,7 @@ This repo contains **clean, well-structured solutions** to a wide range of DSA p
 
 ## ⚠️ Note
 This repository is intended for **personal learning and practice**.  
-It is **not meant as a teaching resource** or reference guide for others.  
+It is **not meant as a teaching resource or someones guide** or reference guide for others.  
 
 ---
 
