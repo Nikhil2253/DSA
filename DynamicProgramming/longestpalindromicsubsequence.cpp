@@ -20,9 +20,12 @@ int lcs(string s, string t) {
 }
 
 int main() {
-    string s, t;
-    cin >> s >> t;
+    string s;
+    cin >> s;
 
-    cout << "LCS Length: " << lcs(s, t) << endl;
+    string rev = s;
+    reverse(rev.begin(), rev.end());
+
+    cout << "LPS Length: " << lcs(s, rev) << endl;
     return 0;
 }
